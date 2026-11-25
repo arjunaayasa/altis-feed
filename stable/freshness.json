@@ -1,9 +1,9 @@
 {
-  "raw": "{\"expiresAt\":1796750352463,\"feedSha256\":\"95a995bbd2f42b55032cf1f3b306d8b3bdeba82a91bb4a315dda511380eb8d52\",\"issuedAt\":1795540752463,\"seq\":1}",
+  "raw": "{\"expiresAt\":1796812844612,\"feedSha256\":\"95a995bbd2f42b55032cf1f3b306d8b3bdeba82a91bb4a315dda511380eb8d52\",\"issuedAt\":1795603244612,\"seq\":2}",
   "env": {
     "typ": "altis-timestamp/1",
     "kid": "arsya-ts-2",
     "alg": "Ed25519",
-    "sig": "hs2v-bSHN9yeECyMm74KpmTLD648j_AC1wHvNNVPFS9gSJhEyVIcfU7SetB_GFirSTwqI9ORwe6ys8utYvQfBw"
+    "sig": "I53fFTmJGMWKzDKuPyR4RXjn_z06VokgCCSeKMXIhus7hQxuV6gGPiw0DToAq4nz-okZnEinYyRrjQo8YnzTBA"
   }
 }
